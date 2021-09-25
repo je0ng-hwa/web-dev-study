@@ -1,1 +1,3 @@
-# web-dev-study-2021-2-
+# web-dev-study
+
+2021 이화체인 웹 제작 스터디
